@@ -1,10 +1,8 @@
 ## Aslan Badalov :blossom: @Aslanchik 
 
 Fond of:
-> Clean Code
-> Beautiful Colors
-> Intuitive Design
-> Music
+> Clean code, beautiful colors and intuitive design.
+
 
 
 

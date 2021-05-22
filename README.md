@@ -1,7 +1,7 @@
 ## Aslan Badalov :blossom: @Aslanchik 
 
 
-> Fond of clean code and beautiful colors. :yum:
+> Fond of beautiful colors. :yum:
 
 
 
